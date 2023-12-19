@@ -8,6 +8,9 @@ public class A {
 		System.out.println("A랑 B 수정");
 		System.out.println("devB랑 병합");
 		
+		System.out.println("A랑 C 수정");
+		System.out.println("devC랑 병합");
+		
 
 	}
 
